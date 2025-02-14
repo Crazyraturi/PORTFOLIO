@@ -1,26 +1,26 @@
 [
     {
-      "title": "Project A",
+      "title": " Virtual Tool",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "A Landing page for VR/AR Application Service .",
+      "skills": ["React", "Javascript", "Css"],
+      "demo": "https://virtual-tool-subodh-raturis-projects.vercel.app/",
+      "source": "https://github.com/Crazyraturi/VirtualTool"
     },
     {
-      "title": "Project B",
+      "title": "Shop Me",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "A E-commerse website for buy product online",
+      "skills": ["React", "Javascript", "Css", "Html"],
+      "demo": "https://shop-me-subodh-raturis-projects.vercel.app/",
+      "source": "https://github.com/Crazyraturi/shop--me-ecommerseStore"
     },
     {
-      "title": "Project C",
+      "title": "Portfolio",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "my personal portfolio website.",
+      "skills": ["React", "javascript", "css"],
+      "demo": "https://portfolio-kappa-cyan.vercel.app/",
+      "source": "https://github.com/Crazyraturi/PORTFOLIO"
     }
   ]
