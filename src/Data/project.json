@@ -1,7 +1,7 @@
 [
     {
       "title": " Virtual Tool",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/Be-VR.png",
       "description": "A Landing page for VR/AR Application Service .",
       "skills": ["React", "Javascript", "Css"],
       "demo": "https://virtual-tool-subodh-raturis-projects.vercel.app/",
@@ -9,7 +9,7 @@
     },
     {
       "title": "Shop Me",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/ecommerse.webp",
       "description": "A E-commerse website for buy product online",
       "skills": ["React", "Javascript", "Css", "Html"],
       "demo": "https://shop-me-subodh-raturis-projects.vercel.app/",
@@ -17,7 +17,7 @@
     },
     {
       "title": "Portfolio",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/portfolio.webp",
       "description": "my personal portfolio website.",
       "skills": ["React", "javascript", "css"],
       "demo": "https://portfolio-kappa-cyan.vercel.app/",
