@@ -83,10 +83,18 @@
 
   .aboutItems {
     margin-top: 29px;
+    
   }
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
   }
-}
+
+  .aboutItemText {
+    padding-left:20px ;
+  }
+  .aboutItemText p{
+    padding-top: 5px;
+  }
+} 
