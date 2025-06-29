@@ -20,6 +20,7 @@ import styles from "./Contact.module.css";
           <a href="mailto:subodhraturi23@gmail.com">subodhraturi23@gmail.com</a>
         </li>
         <li className={styles.link}>
+          <li></li>
           <img
             src={linkedin}
             alt="LinkedIn icon"

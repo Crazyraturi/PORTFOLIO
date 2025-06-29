@@ -16,11 +16,11 @@
       "source": "https://github.com/Crazyraturi/shop--me-ecommerseStore"
     },
     {
-      "title": "Portfolio",
+      "title": "LAZAREV.",
       "imageSrc": "projects/portfolio.webp",
-      "description": "my personal portfolio website.",
+      "description": "redesign LAZAREV. website.",
       "skills": ["React", "javascript", "css"],
-      "demo": "https://portfolio-kappa-cyan.vercel.app/",
-      "source": "https://github.com/Crazyraturi/PORTFOLIO"
+      "demo": "https://lazarev-frontendproject.vercel.app/",
+      "source": "https://github.com/Crazyraturi/lazarev."
     }
   ]
