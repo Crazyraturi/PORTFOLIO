@@ -19,7 +19,7 @@
       "title": "LAZAREV.",
       "imageSrc": "projects/portfolio.webp",
       "description": "redesign LAZAREV. website.",
-      "skills": ["React", "javascript", "css"],
+      "skills": ["React", "javascript", "css","GSAP"],
       "demo": "https://lazarev-frontendproject.vercel.app/",
       "source": "https://github.com/Crazyraturi/lazarev."
     }
